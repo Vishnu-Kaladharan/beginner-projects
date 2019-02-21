@@ -56,6 +56,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - [FLAMES Game](#FLAMES-Game)
 - [Pomodoro Timer](#Pomodoro-Timer)
 - [Scarne's Dice](#Scarne's-Dice)
+- [GoogleCase](#GoogleCase)
 
 ## Projects
 
@@ -391,6 +392,18 @@ to know more about Pomodoro Timer [click here](https://en.wikipedia.org/wiki/Pom
 
 Turn-based dice game where players score points by rolling a die and then: if they roll a 1, score no points and lose their turn, if they roll a 2 to 6: add the rolled value to their points choose to either reroll or keep their score and end their turn. The winner is the first player that reaches (or exceeds) 100 points.
 
+
+### GoogleCase
+
+- Its a game which allows you to play with english sentences.
+- User will enter a sentence in any format.(uppercase or lowercase or a mix of both)
+- Program must convert the given sentence in google case .What is a google case style of sentence?[know_about_it_here:]( It is a style of         writing where we replace all lower case letters into upper case letters leaving the initial of all the words).
+- Subgoals:
+    - Program must then convert the given sentence in camel case.To know more about camel case [click_here]                                       (https://en.wikipedia.org/wiki/Camel_case)
+    - Sentence can be entered with any number of spaces.
+
+Hint: If you are dealing with languages such as ***c*** then consider the sentences as the char array.
+
 ## Solutions
 - [aekanshd](https://github.com/aekanshd/beginner-projects/tree/master/solutions/python)
 - [Everstalk](https://github.com/Everstalk/BP)
@@ -417,6 +430,13 @@ Turn-based dice game where players score points by rolling a die and then: if th
 - [parthkandpal](https://github.com/parthkandpal/beginner-project-solutions)
 - [mark-quinn](https://github.com/mark-quinn/random-but-useful-ruby-programs)
 - [Vishnu-Kaladharan](https://github.com/Vishnu-Kaladharan/beginner-project-solutions)
+- [Helkat](https://github.com/Helkat/beginner-project-solutions)
+- [My3bka](https://github.com/My3bka/beginner-project-solutions)
+- [vishal-vardhan](https://github.com/vishal-vardhan/beginner-project.git)
+- [hc65100](https://github.com/Hc165100/sample-project-solutions.git)
+- [areetaw](https://github.com/areetaw/beginner-projects-solutionst)
+- [madelinecodes](https://github.com/madelinecodes/beginner-projects)
+- [Recandi](https://github.com/Recandi/rust-beginner-projects)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
